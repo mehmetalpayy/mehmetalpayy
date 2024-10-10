@@ -1,4 +1,4 @@
-<h1 align="center"><strong>Hi 👋 I'm a NLP Developer Candidate</h1>
+<h1 align="center"><strong>Hi 👋 I'm a Machine Learning Engineer</h1>
 
 I am deeply passionate about artificial intelligence and committed to advancing my skills. I approach tasks with precision and stay updated on the latest advancements in AI. I strive for excellence and continuously seek self-improvement. My focus is on AI research, particularly in deep learning model development, NLP, and large language models. I am always eager to explore new ideas and innovations, aiming to make a meaningful impact in the field.
 
